@@ -1,0 +1,16 @@
+Package: opensafelyR
+Type: Package
+Title: Simple tools for OpenSAFELY output
+Version: 0.1.0
+Authors@R: person("Anuoluwapo Adetayo", "Data Scientist", email = "yeyeadetayo@gmail.com", role = c("aut", "cre"))
+Description: A simple R package to help read and summarise OpenSAFELY output files.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports:
+    ggplot2,
+    dplyr,
+    tidyr,
+    e1071,
+    GGally
