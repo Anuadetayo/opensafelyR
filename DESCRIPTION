@@ -13,4 +13,4 @@ Imports:
     dplyr,
     tidyr,
     e1071,
-    GGally
+   
